@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">calculatrice profissional</string>
+    <string name="clearBTN">C</string>
+    <string name="parenteseBTN">()</string>
+    <string name="puissenceBTN">^</string>
+    <string name="divBTN">÷</string>
+    <string name="multiBTN">×</string>
+    <string name="sustractionBTN">−</string>
+    <string name="aditionBTN">+</string>
+    <string name="oneBTN">1</string>
+    <string name="twobtn">2</string>
+    <string name="threeBTN">3</string>
+    <string name="fourBTN">4</string>
+    <string name="fiveBTN">5</string>
+    <string name="sixBTN">6</string>
+    <string name="sevenBTN">7</string>
+    <string name="eightBTN">8</string>
+    <string name="nineBTN">9</string>
+    <string name="negativeBTN">+/-</string>
+    <string name="seroBTN">0</string>
+    <string name="pointBTN">.</string>
+    <string name="equalBTN">=</string>
+    <string name="display"></string>
+</resources>
